@@ -7,7 +7,8 @@
 
 1. In Device, Taking Pictrue in realtime video
 2. In Device, Control Circular LED brightness
-3. In Software, Classfication of Tongue state (red tongue/white tone/
+3. In Software, Classfication of Tongue state (using tongue state : red tongue/white tongue/pink tongue/little coated/white coated/yellow coated/Existence of tooth scar -> Disease Diagnosis)
+4. 
 2. In Video, Tracking Specific shape
 3. In Video, Resizing Specific shape
 
