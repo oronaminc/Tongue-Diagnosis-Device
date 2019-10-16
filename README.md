@@ -1,13 +1,13 @@
 # Tongue-Diagnosis-Device
-- [Arduino] Tongue-Diagnosis-Device(TDD) :
+- [Device] RaspberryPi(Using Camera Tongue detection) & Arduino(Circular LED control)
+- [Software] Pytorch(Disease classfication) and Opencv with python(Divide Tongue part & Analysis Tongue part)
 
-
-# Video with (Sketcher & Track)
-Python Sketcher and Tracking in video  ( Vision Programming Class )
 
 ## Function
 
-1. In Video, Making any shape with Sketcher.py ( Using mouse Drawing )
+1. In Device, Taking Pictrue in realtime video
+2. In Device, Control Circular LED brightness
+3. In Software, Classfication of Tongue state (red tongue/white tone/
 2. In Video, Tracking Specific shape
 3. In Video, Resizing Specific shape
 
