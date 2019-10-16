@@ -14,7 +14,7 @@ Python Sketcher and Tracking in video  ( Vision Programming Class )
 ## Result Video Clip
 
 <div>
-  <img width="800" src="https://user-images.githubusercontent.com/37185394/61068510-290e1c00-a445-11e9-9895-d73a8216d8d1.gif"/>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/66881933-847f1580-f003-11e9-86bd-84b11912d8ee.gif"/>
 </div>
 
 ## Using Manuual
