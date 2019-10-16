@@ -7,10 +7,9 @@
 
 1. In Device, Taking Pictrue in realtime video
 2. In Device, Control Circular LED brightness
-3. In Software, Classfication of Tongue state (using tongue state : red tongue/white tongue/pink tongue/little coated/white coated/yellow coated/Existence of tooth scar -> Disease Diagnosis)
-4. 
-2. In Video, Tracking Specific shape
-3. In Video, Resizing Specific shape
+3. In Software, Classfication of Tongue Disease (using tongue state : red tongue/white tongue/pink tongue/little coated/white coated/yellow coated/Existence of tooth scar -> Disease Diagnosis)
+4. In Software, Divide and Analysis Tongue part (Divide Tongue into Top/Bottom/Side/Center part and Divide coated part or not)
+
 
 ## Result Video Clip
 
@@ -22,12 +21,6 @@
   <img width="800" src="https://user-images.githubusercontent.com/37185394/66881933-847f1580-f003-11e9-86bd-84b11912d8ee.gif"/>
 </div>
 
-## Using Manuual
-
-1. In Shell console, >> python Sketcher_main.py
-2. Using mouse Drawing, Draw Specific Shape (What U want)
-3. Press SpaceBar
-4. Specific Shape follow object and Resizeing (which you designate)
 
 ## pip install
 
