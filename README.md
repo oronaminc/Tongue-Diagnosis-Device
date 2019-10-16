@@ -14,10 +14,10 @@ Python Sketcher and Tracking in video  ( Vision Programming Class )
 ## Result Video Clip
 
 <div>
-  <p>Device Video Clip</p>
-  <img width="800" src="https://user-images.githubusercontent.com/37185394/66882327-f4da6680-f004-11e9-9d41-1f02879107a2.gif"/>
+  <p> - Device Video Clip</p>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/66882526-b2fdf000-f005-11e9-80f5-95da78d58809.gif"/>
   
-  <p>Website Video Clip</p>
+  <p> - Website Video Clip</p>
   <img width="800" src="https://user-images.githubusercontent.com/37185394/66881933-847f1580-f003-11e9-86bd-84b11912d8ee.gif"/>
 </div>
 
