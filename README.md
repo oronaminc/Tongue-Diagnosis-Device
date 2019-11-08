@@ -3,19 +3,19 @@
 - [Software] Pytorch(Disease classfication) and Opencv with python(Divide Tongue part & Analysis Tongue part)
 
 
-## Function
+# Function
 
 1. In Device, Taking Pictrue in realtime video
 2. In Device, Control Circular LED brightness
 3. In Software, Classfication of Tongue Disease (using tongue state : red tongue/white tongue/pink tongue/little coated/white coated/yellow coated/Existence of tooth scar -> Disease Diagnosis)
 4. In Software, Divide and Analysis Tongue part (Divide Tongue into Top/Bottom/Side/Center part and Divide coated part or not)
 
-## HW Device(Arduino + RaspberryPI)
+# HW Device(Arduino + RaspberryPI)
 <div>
   <img width="800" src="https://user-images.githubusercontent.com/37185394/68458958-634ac700-0247-11ea-8fc4-6dd6b43b6dc4.gif"/>
 </div>
 
-## Presentation
+# Presentation
 
 <div>
   <img width="800" src="https://user-images.githubusercontent.com/37185394/68457812-83c55200-0244-11ea-8725-edebf24eee41.JPG"/>
@@ -25,7 +25,7 @@
 </div> 
 
 
-## Result Video Clip
+# Result Video Clip
 
 <div>
   <p> - Device Video Clip</p>
