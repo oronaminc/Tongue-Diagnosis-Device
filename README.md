@@ -12,6 +12,13 @@
 
 ## Presentation
 
+<div>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/68457812-83c55200-0244-11ea-8725-edebf24eee41.JPG"/>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/68457813-83c55200-0244-11ea-8982-352223972716.JPG"/>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/68457814-83c55200-0244-11ea-9705-68b4ad7acec7.JPG"/>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/68457810-83c55200-0244-11ea-9800-b74488bdca70.JPG"/>
+</div> 
+
 
 ## Result Video Clip
 
