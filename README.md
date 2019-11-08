@@ -10,6 +10,11 @@
 3. In Software, Classfication of Tongue Disease (using tongue state : red tongue/white tongue/pink tongue/little coated/white coated/yellow coated/Existence of tooth scar -> Disease Diagnosis)
 4. In Software, Divide and Analysis Tongue part (Divide Tongue into Top/Bottom/Side/Center part and Divide coated part or not)
 
+## HW Device(Arduino + RaspberryPI)
+<div>
+  <img width="800" src="https://user-images.githubusercontent.com/37185394/68458958-634ac700-0247-11ea-8fc4-6dd6b43b6dc4.gif"/>
+</div>
+
 ## Presentation
 
 <div>
