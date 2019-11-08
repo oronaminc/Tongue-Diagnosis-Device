@@ -10,6 +10,8 @@
 3. In Software, Classfication of Tongue Disease (using tongue state : red tongue/white tongue/pink tongue/little coated/white coated/yellow coated/Existence of tooth scar -> Disease Diagnosis)
 4. In Software, Divide and Analysis Tongue part (Divide Tongue into Top/Bottom/Side/Center part and Divide coated part or not)
 
+## Presentation
+
 
 ## Result Video Clip
 
