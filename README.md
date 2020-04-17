@@ -1,7 +1,7 @@
 # Tongue-Diagnosis-Device
 - [Device] RaspberryPi(Using Camera Tongue detection) & Arduino(Circular LED control)
 - [Software] Pytorch(Disease classfication) and Opencv with python(Divide Tongue part & Analysis Tongue part)
-- https://oronaminc.github.io/AI_Tongue/
+- [Web Site] https://oronaminc.github.io/AI_Tongue/
 
 # Function
 
